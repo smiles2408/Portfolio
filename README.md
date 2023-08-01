@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Portfolio
 
-This personal portfolio is created with React and Tailwind CSS
+This personal portfolio is created with React and CSS
